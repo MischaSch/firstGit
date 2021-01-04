@@ -11,6 +11,8 @@ public class Main {
 
         System.out.println(coffeeMaker.getMugType(coffeeMaker.setMug(201)));
         System.out.println("GitTesting should be fun!");
+
+        System.out.println("Nach dem ersten Commit wird es spannender.");
     }
 
 }
